@@ -1,0 +1,7 @@
+title: 마이크로소프트웨어
+description: 마이크로소프트웨어와 기술 이야기를 기록하는 공간
+theme: minima
+lang: ko-KR
+markdown: kramdown
+plugins:
+  - jekyll-feed
